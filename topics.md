@@ -1,0 +1,4 @@
+- Creating Schemas
+- select / update
+- Procedure / trigger
+- Dynamic SQL
